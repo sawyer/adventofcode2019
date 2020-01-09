@@ -1,0 +1,59 @@
+[goal]           [hcf]-[nav]
+ |                       |
+[]- [kchn]             [strg]
+      |                  |
+    [crdr]      [holo]-[psgs]
+      |                  |
+    [crew]-------------[arcd]
+      |                  |
+      |                  |
+      |   [hlwy]         |
+      |     |            |
+    [eng] [stab]-[hb]--[obs]-[gwc]
+                  |            |
+                 [sb]         [wdm]---[sci]
+
+
+Stab - Fixed Point
+Psgs - Hypercube
+Strg - Coin
+Nav - easter egg
+hlwy - sand
+Obs - Asterisk
+crdr - spool of cat6
+kchn - shell
+
+
+sb - infinite loop (DEAD)
+wdm - escape pod (DEAD)
+sci - photons (DEAD)
+Eng - Molten Lava (DEAD)
+Arcd - Giant Electromagnet (DEAD)
+
+
+Weight
+-------------
+COIN
+SPOOL OF CAT6
+
+ASTERISK
+EASTER EGG
+
+SAND
+SHELL
+HYPERCUBE
+FIXED POINT
+
+
+
+
+Answer
+-------------
+coin
+spool of cat6
+fixed point
+sand
+
+
+
+
