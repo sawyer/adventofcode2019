@@ -18,5 +18,5 @@ I found Day 18 the most challenging - learning to write a few different versions
 of BFS and performing multiple rounds of optimizations to solve the puzzle 
 in a reasonable amount of time was a lot of fun!
 
-![Thanks Eric!](Thanks Eric!.png "Thanks Eric!")
+![Thanks Eric!](https://github.com/sawyer/adventofcode2019/blob/master/Thanks%20Eric!.png "Thanks Eric!")
 
